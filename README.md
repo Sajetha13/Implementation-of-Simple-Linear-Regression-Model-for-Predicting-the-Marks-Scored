@@ -103,7 +103,7 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 .....................................................//(9)
 
-Developed by: S>Sajetha
+Developed by: S.Sajetha
 RegisterNumber: 212223100049 
 
 ```
