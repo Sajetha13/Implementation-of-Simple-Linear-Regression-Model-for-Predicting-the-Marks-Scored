@@ -93,30 +93,22 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 .....................................................//(9)
+
 Developed by: S>Sajetha
 RegisterNumber: 212223100049 
 
 ```
 
 ## Output:
-1.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/401ddb24-835a-4ecd-8ba5-968e3d40c83c)
-2.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/37f0d000-8d62-4f18-8c48-7907c2770520)
-3.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/7edb8eb1-bd8a-4351-bb7e-ad322e3a8141)
-4.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/9dec2c38-f569-48a8-9b91-bc7de4c729a4)
-5.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/cc0ecb9a-c0e3-422a-90ec-11628a19e98f)
-6.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/ec5ac58a-608e-48a1-941b-37a80f3f96db)
-7.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/9244dc27-eec3-4113-ac3f-05264f91376b)
-8.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/ef583797-cb40-4cdb-bc29-44bbf2cf5f7e)
-9.
-![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/f0a31892-6647-4b32-b1f6-9199a725a0cc)
+1.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/401ddb24-835a-4ecd-8ba5-968e3d40c83c)
+2.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/37f0d000-8d62-4f18-8c48-7907c2770520)
+3.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/7edb8eb1-bd8a-4351-bb7e-ad322e3a8141)
+4.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/9dec2c38-f569-48a8-9b91-bc7de4c729a4)
+5.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/cc0ecb9a-c0e3-422a-90ec-11628a19e98f)
+6.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/ec5ac58a-608e-48a1-941b-37a80f3f96db)
+7.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/9244dc27-eec3-4113-ac3f-05264f91376b)
+8.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/ef583797-cb40-4cdb-bc29-44bbf2cf5f7e)
+9.![image](https://github.com/Sajetha13/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849316/f0a31892-6647-4b32-b1f6-9199a725a0cc)
 
 
 
