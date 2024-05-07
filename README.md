@@ -16,38 +16,15 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Predict the regression for marks by using the representation of the graph.
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 ```
-```
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-#import libraries to find mae, mse
 
-#read csv file
-df=
-#displaying the content in datafile
-df.
-
-#Segregating data to variables
-     
-#splitting train and test data
-     
-#import linear regression model and fit the model with the data
-     
-#displaying predicted values
-     
-#displaying actual values
-     
-#graph plot for training data
-     
-#graph plot for test data
-     
-#find mae,mse,rmse
-```
 
 
 ## Program:
 ```
-/*
+Program to implement the simple linear regression model for predicting the marks scored
+Developed by: S.Sajetha
+RegisterNumber: 212223100049
+
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
@@ -103,9 +80,6 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 .....................................................//(9)
-
-Developed by: S.Sajetha
-RegisterNumber: 212223100049 
 
 ```
 
